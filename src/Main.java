@@ -15,6 +15,8 @@ public class Main {
             System.out.println("i = " + i);
 
             int add=9;
+            String name="";
+
 
         }
     }
